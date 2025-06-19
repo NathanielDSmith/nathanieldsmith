@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naffster89&label=Profile%20views&color=0e75b6&style=flat" alt="naffster89" /> </p>
 
-- 🔭 I’m currently working on **React Plant Store**
+- 🔭 I’m currently working on **React Plant Store**, **FlashForge**, **Job Tracker**
 
-- 🌱 I’m currently learning **React, Rails, Python**
+- 🌱 I’m currently learning **React, Rails, Python, Typescript, Tailwind**
 
 - 👯 I’m looking to collaborate on **Fun and interesting projects**
 
