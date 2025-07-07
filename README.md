@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nathanieldamiensmith@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OgmTjhL2TUcHeN1tLZ0LRIVMwQMqFMRo/edit?usp=sharing&ouid=116635071735788182919&rtpof=true&sd=true](https://docs.google.com/document/d/1OgmTjhL2TUcHeN1tLZ0LRIVMwQMqFMRo/edit?usp=sharing&ouid=116635071735788182919&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1HFlS3DoQpzW6cp-BMnVlLOjrvdE1-y1N/view?usp=sharing
 
 - ⚡ Fun fact **I used to go to drama school**
 
