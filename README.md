@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NathanieDSmith](https://github.com/NathanieDSmith)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Naffster89](https://hashnode.com/@Naffster89)
-
 - 💬 Ask me about **React, Rails, Python**
 
 - 📫 How to reach me **nathanieldamiensmith@gmail.com**
