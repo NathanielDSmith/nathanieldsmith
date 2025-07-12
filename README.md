@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nathanieldamiensmith@gmail.com**
 
-- ℹ️ My portfolio website [nathanielsmith.tech](nathanielsmith.tech)
+- ℹ️ My portfolio website [https://nathanielsmith.tech](https://nathanielsmith.tech)
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1HFlS3DoQpzW6cp-BMnVlLOjrvdE1-y1N/view?usp=sharing
 
