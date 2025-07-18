@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **I'd love React advice**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NathanieDSmith](https://github.com/NathanieDSmith)
+- 👨‍💻 All of my projects are available at [https://github.com/NathanielDSmith](https://github.com/NathanieDSmith)
 
 - 💬 Ask me about **React, Rails, Python**
 
