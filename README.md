@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=NathanielDSmith&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-I’m a Software Engineer working in fintech, where I build practical tools across the full stack. My work spans backend systems, frontend interfaces, automation, data pipelines, financial scanners, charting tools, and Discord integrations. In a startup environment, I contribute to nearly every technical layer — from database design to market-data research and visualization.
+I’m a Software Engineer working in fintech, where I build practical tools across the full stack. My work spans backend systems, frontend interfaces, automation, data pipelines, financial scanners, charting tools, and Discord integrations. In a startup environment, I contribute to nearly every technical layer, from database design to market-data research and visualization.
 
 Current focus areas include full-stack development, API integrations, automation workflows, and market-analysis tooling.
 
