@@ -7,7 +7,7 @@
 
 I'm a software engineer working across fintech and mobile applications. Most of my work happens in private repositories, where I build full-stack systems ranging from backend services and APIs to mobile apps, automation tools, and data pipelines.
 
-My current main project is **ibasho** — a Japanese social community app for iOS and Android, live on the App Store. It's built with Flutter and Supabase and includes a social feed, community groups, a bulletin board, real-time DM chat with voice calling, notifications, user profiles with follow/block, location-based nearby users, and footprint tracking. The infrastructure runs on Supabase Realtime subscriptions, FCM push via TypeScript edge functions, Agora RTC for voice, and AdMob for monetisation.
+Recently I shipped a cross-platform social app to the App Store, built with Flutter and Supabase. That involved real-time messaging, push notifications via Firebase and TypeScript edge functions, voice calling with Agora RTC, OAuth authentication, location-based features, and state management with Riverpod — all targeting a Japanese-language audience.
 
 Alongside this I work on trading analytics tools, charting systems, financial scanners, and Discord integrations.
 
@@ -19,29 +19,6 @@ Current focus areas include mobile development, full-stack systems, API integrat
 **GitHub:** https://github.com/NathanielDSmith
 **LinkedIn:** https://linkedin.com/in/nathaniel-damien-smith
 **Email:** nathanieldamiensmith@gmail.com
-
----
-
-### 📱 ibasho
-
-> A Japanese social community mobile app — iOS & Android
-
-**ibasho** (居場所 — *"a place to belong"*) is a location-aware social platform built for the Japanese market, currently live on the App Store at v1.2.0.
-
-| Feature | Details |
-|---|---|
-| Social feed | Posts, likes, comments, emoji reactions |
-| Communities | Create and join groups, group feeds |
-| Keijiban | Bulletin board / forum threads |
-| Messaging | Real-time DM chat, emoji reactions, voice calls |
-| Notifications | Per-type filtering, unread badge counts |
-| Discovery | Location-based nearby users, footprint tracking |
-| Profiles | Follow/unfollow, block lists, saved posts |
-| Auth | Google Sign-In, Apple Sign-In, onboarding flow |
-
-**Stack:** Flutter · Dart · Supabase (Postgres, Realtime, RLS, Edge Functions) · Firebase (FCM, Analytics) · Agora RTC · Riverpod · go_router · AdMob · TypeScript (Deno edge functions)
-
----
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
